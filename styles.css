@@ -1,0 +1,11 @@
+p {
+  color: red
+}
+
+a:hover{
+  color: orange
+}
+
+h1 {font-size: 40px}
+
+body>ul>li {display: inline-block;}
